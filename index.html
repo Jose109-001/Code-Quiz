@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Code Quiz Challenge</title>
+  </head>
+  <body>
+    <header>
+      <a href="highscores.html">View Highscores</a>
+      <p id="timer">Time: <span id="seconds"> 0</span></p>
+    </header>
+
+    <div class="start">
+      <h1>Coding Quiz Challenge</h1>
+      <p>
+        Try to answer the following code-related questions within the time limit.
+         Keep in mind that incorrect answer will penalize your scoreTime
+        by ten seconds!
+      </p>
+      <button type="button" id="startquiz">Start Quiz</button>
+    </div>
+
+    <div class="dispq">
+      <h1 id="question"></h1>
+      <ol class="list">
+        <li class="choices" id="answer1"></li>
+        <li class="choices" id="answer2"></li>
+        <li class="choices" id="answer3"></li>
+        <li class="choices" id="answer4"></li>
+      </ol>
+    </div>
+
+    <div class="gameover">
+      <h1>Game Over!</h1>
+      <p>Your final score is: <span id="score">equal to seconds left</span></p>
+      <form action="highscores.html" method="get">
+        Enter your name:<input
+          type="text"
+          name="initials"
+          id="initials"
+        /><br /><br />
+        <button
+          type="submit"
+          onclick="window.location.href = 'highscores.html'"
+          id="highscores"
+        >
+          Submit
+        </button>
+      </form>
+    </div>
+
+    <script src="assets/javascript/questions.js"></script>
+    <script src="assets/javascript/script.js"></script>
+
+    <script></script>
+  </body>
+</html>

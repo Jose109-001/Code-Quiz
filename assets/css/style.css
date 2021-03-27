@@ -1,0 +1,97 @@
+body {
+  background-color: hsl(160, 48%, 73%);
+  font-style: italic;
+  margin: 0;
+  padding: 25px;
+  color: #1f1d1e;
+}
+
+header {
+  font-size: 30px;
+  border: 7px solid green;
+  padding: 25px;
+
+}
+  
+
+
+div {
+  margin: auto;
+  width: 55%;
+  text-align: center;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #1f1d1e;
+}
+
+li {
+  list-style-position: inside;
+  background-color: lightseagreen;
+  color: hsl(0, 79%, 4%);
+  width: 35%;
+  height: 38px;
+  font-weight: bolder;
+  font-size: 20px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 15px;
+  margin: 8px;
+}
+
+#timer {
+  float: right;
+  margin: 0;
+}
+
+#display {
+  text-align: left;
+}
+
+.dispq {
+  text-align: justify;
+}
+
+.choices:hover {
+  background-color: #d3d1d2;
+}
+
+button {
+  background-color: #f0eeef9f;
+  border-style: solid;
+  border-color: #070707;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+  color: hsl(340, 12%, 5%);
+}
+
+button:hover {
+  background-color:#f0eeef9f;
+
+}
+
+@media (max-width: 690px) {  
+  .btn {
+    font-size: 1rem;
+    margin: 16px 0px 0px 0px;
+    padding: 10px 15px;
+  }
+
+  #password {
+    font-size: 1rem;
+
+  }
+
+
+@media (max-width: 500px) {  
+  .btn {
+   font-size: 0.8rem;
+
+  }
+
+
+
