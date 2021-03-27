@@ -31,13 +31,12 @@ li {
   list-style-position: inside;
   background-color: lightseagreen;
   color: hsl(0, 79%, 4%);
-  width: 35%;
-  height: 38px;
+  width: 25%;
   font-weight: bolder;
   font-size: 20px;
   border-style: solid;
   border-color: green;
-  border-radius: 15px;
+  border-radius: 5px;
   margin: 8px;
 }
 
