@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Code Quiz Challenge
+=======
+#  Code Quiz Challenge
+>>>>>>> 24e886b7a3eab431a9bb66f2944ba73d1ae26682
 
 ## Your Task
 
@@ -90,5 +94,9 @@ You are required to submit BOTH of the following for review:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
  
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24e886b7a3eab431a9bb66f2944ba73d1ae26682
 
 https://jose109-001.github.io/Code-Quiz/.
