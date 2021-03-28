@@ -92,4 +92,7 @@ You are required to submit BOTH of the following for review:
 
  
 
-https://jose109-001.github.io/Code-Quiz/.
+Press here to open:  https://jose109-001.github.io/Code-Quiz/.
+
+
+![picture 1](https://user-images.githubusercontent.com/77666204/112743644-d1329280-8fe4-11eb-99c9-6bdf41f2331f.jpg)
