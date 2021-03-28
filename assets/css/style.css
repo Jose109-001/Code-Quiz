@@ -35,9 +35,10 @@ li {
   font-weight: bolder;
   font-size: 20px;
   border-style: solid;
-  border-color: green
-  border-radius: 5px;
+  border-color: green;
+  border-radius: 8px;
   margin: 8px;
+  padding: auto;
 }
 
 #timer {
@@ -60,12 +61,12 @@ li {
 button {
   background-color: #f0eeef9f;
   border-style: solid;
-  border-color: #070707;
+  border-color: rgb(14, 13, 13);
   border-radius: 11px;
   font-weight: bold;
   font-size: 18px;
   padding: 10px;
-  color: hsl(340, 12%, 5%);
+  color: #000000;
 }
 
 button:hover {

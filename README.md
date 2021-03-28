@@ -1,5 +1,5 @@
 
-# 04 Web APIs: Code Quiz
+Code Quiz Challenge
 
 ## Your Task
 
@@ -89,14 +89,6 @@ You are required to submit BOTH of the following for review:
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
- ![picture 1](https://user-images.githubusercontent.com/77666204/112719044-c62b2400-8f4a-11eb-810a-cd1ce3c58619.jpg)
-![picture 2](https://user-images.githubusercontent.com/77666204/112719047-c7f4e780-8f4a-11eb-8878-a06350f73a63.jpg)
-![picture 3](https://user-images.githubusercontent.com/77666204/112719052-cb886e80-8f4a-11eb-9639-fe9c74008288.jpg)
-![picture 4](https://user-images.githubusercontent.com/77666204/112719055-cd523200-8f4a-11eb-9ec8-0cb54ac568e9.jpg)
-![picture 5](https://user-images.githubusercontent.com/77666204/112719061-d2af7c80-8f4a-11eb-9715-260ede5cad6f.jpg)
-![picture 6](https://user-images.githubusercontent.com/77666204/112719063-d6430380-8f4a-11eb-8522-48079e59bb9b.jpg)
-![picture 7](https://user-images.githubusercontent.com/77666204/112719068-dba04e00-8f4a-11eb-8bd9-0c6ee018d070.jpg)
-![picture 8](https://user-images.githubusercontent.com/77666204/112719070-de02a800-8f4a-11eb-8de9-950d12abe6cb.jpg)
-
+ 
 
 https://jose109-001.github.io/Code-Quiz/.
