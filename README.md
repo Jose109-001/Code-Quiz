@@ -1,6 +1,6 @@
 
 
-### Code Quiz Challenge
+## Code Quiz Challenge
 
 
 ## Your Task
